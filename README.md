@@ -5,3 +5,5 @@ Python aim trainer with Pygame
 
 You hover your cursor over the red square, and you can repeatedly hover over it.
 Your score will be displayed in the console.
+
+***RECCOMMENDED SOURCE CODE GAME, IF PLAYED WITH EXE, MIGHT BE LAGGY***
